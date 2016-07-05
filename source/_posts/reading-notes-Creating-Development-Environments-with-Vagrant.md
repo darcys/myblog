@@ -1,4 +1,4 @@
-title: reading-notes-Creating-Development-Environments-with-Vagrant
+title: 阅读笔记- 《Creating Development Environments with Vagrant》
 date: 2016-06-02 15:35:53
 categories:
  - 读书笔记-技术类
